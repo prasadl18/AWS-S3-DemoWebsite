@@ -28,7 +28,7 @@ It demonstrates basic **cloud hosting skills**, **bucket configuration**, and **
 Visit my live website here -> http://prasad-first-demo.s3-website-us-east-1.amazonaws.com
 
 ## Screenshot
-Website Screenshot : <img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/b8ed3c38-56f2-4c2d-a132-ffe759d6c2a4" />
+Website Screenshot : <img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/a9d41658-b79e-4104-9433-c08ecbed825e" />
 <img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/b6ac81f2-975b-4c6c-9124-cb4b74ba8677" />
 
   <!-- optional, you can add a screenshot image -->
